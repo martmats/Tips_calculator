@@ -8,7 +8,7 @@ st.markdown(
         background-color: #f5f5f5;
     }
     .stButton>button {
-        background-color: #4CAF50;
+        background-color: #77a8f7;
         color: white;
         font-size: 16px;
     }
